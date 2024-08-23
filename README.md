@@ -1,2 +1,2 @@
 # myHashtable
-Hashtable collection 
+Hashtable thread-safe collection 
